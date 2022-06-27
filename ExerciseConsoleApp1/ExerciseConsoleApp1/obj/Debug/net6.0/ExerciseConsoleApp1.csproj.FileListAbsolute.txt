@@ -1,0 +1,15 @@
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\bin\Debug\net6.0\ExerciseConsoleApp1.exe
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\bin\Debug\net6.0\ExerciseConsoleApp1.deps.json
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\bin\Debug\net6.0\ExerciseConsoleApp1.runtimeconfig.json
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\bin\Debug\net6.0\ExerciseConsoleApp1.dll
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\bin\Debug\net6.0\ExerciseConsoleApp1.pdb
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.csproj.AssemblyReference.cache
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.AssemblyInfoInputs.cache
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.AssemblyInfo.cs
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.csproj.CoreCompileInputs.cache
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.dll
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\refint\ExerciseConsoleApp1.dll
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.pdb
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ExerciseConsoleApp1.genruntimeconfig.cache
+C:\StudyC#\StudyC-\ExerciseConsoleApp1\ExerciseConsoleApp1\obj\Debug\net6.0\ref\ExerciseConsoleApp1.dll

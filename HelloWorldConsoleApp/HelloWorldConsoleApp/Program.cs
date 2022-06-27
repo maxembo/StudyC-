@@ -1,10 +1,10 @@
-﻿using System;
-
-public class Program
+﻿namespace HelloWorldConsoleApp
 {
-static void Main()
+    internal class Program
     {
-        Console.WriteLine("Hello World!!!");
-        Console.Write("Hello!!!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }

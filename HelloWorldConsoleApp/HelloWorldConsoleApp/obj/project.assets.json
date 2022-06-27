@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\StudyC#\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
+      "projectUniqueName": "C:\\StudyC#\\StudyC-\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
       "projectName": "HelloWorldConsoleApp",
-      "projectPath": "C:\\StudyC#\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
+      "projectPath": "C:\\StudyC#\\StudyC-\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\HelloWorldConsoleApp.csproj",
       "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-      "outputPath": "C:\\StudyC#\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\obj\\",
+      "outputPath": "C:\\StudyC#\\StudyC-\\HelloWorldConsoleApp\\HelloWorldConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
